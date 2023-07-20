@@ -3,6 +3,7 @@ console.log(y)
 const c = 112;
 c = 22;
 console.log(c)
+
 var mynumber = 28;
 var mynumber1 = '28';
 console.log(28=='28');
